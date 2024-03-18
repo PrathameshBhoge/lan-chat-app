@@ -5,10 +5,7 @@
  */
 package chatapplication;
 
-/**
- *
- * @author Pinder
- */
+
 
 import java.io.*;
 import static java.lang.Thread.sleep;
