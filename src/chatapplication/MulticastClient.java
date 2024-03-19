@@ -11,10 +11,6 @@ import java.net.*;
 import java.io.*;
 import java.util.*;
 import javax.swing.JOptionPane;
-
-
-
-
 public  class MulticastClient extends javax.swing.JFrame {
  public static String name;
 public static String message;
